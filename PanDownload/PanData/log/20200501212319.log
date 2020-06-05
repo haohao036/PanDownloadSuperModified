@@ -1,0 +1,18 @@
+2020-05-01 21:23:20 [INFO] pandownload version: 2.2.2
+2020-05-01 21:23:21 [INFO] aria2 websocket connection opened (127.0.0.1:36887)
+2020-05-01 21:23:21 [INFO] aria2 version: 1.35.1
+2020-05-01 21:23:21 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36887/jsonrpc
+2020-05-01 21:23:21 [INFO] create main window
+2020-05-01 21:25:30 [INFO] verify cookie (641)
+2020-05-01 21:25:31 [WARN] request error (0x2fffffff6): http://pan.baidu.com/api/user/getinfo {"errno":-10,"request_id":2827036262909092462}
+2020-05-01 21:25:32 [INFO] user login success (3539102621): 尚信294
+2020-05-01 21:26:32 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandown/李政化学二轮（全）/04.有机第三讲补录.mp4" SIZE="532426420"
+2020-05-01 21:26:34 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandown/李政化学二轮（全）/04.有机第三讲补录.mp4" SIZE="532426420"
+2020-05-01 21:26:36 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandown/李政化学二轮（全）/04.有机第三讲补录.mp4" SIZE="532426420"
+2020-05-01 21:26:41 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandown/李政化学二轮（全）/04.有机第三讲补录.mp4" SIZE="532426420"
+2020-05-01 21:26:43 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandown/李政化学二轮（全）/04.有机第三讲补录.mp4" SIZE="532426420"
+2020-05-01 21:26:45 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandown/李政化学二轮（全）/04.有机第三讲补录.mp4" SIZE="532426420"
+2020-05-01 21:26:51 [INFO] close main window
+2020-05-01 21:26:51 [WARN] aria2 websocket connection closed (127.0.0.1:36887), code: 1000 (Normal close), reason: aria2 shutdown
+2020-05-01 21:26:52 [INFO] websocket client stop
+2020-05-01 21:26:53 [INFO] exit

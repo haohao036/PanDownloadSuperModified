@@ -1,0 +1,22 @@
+2020-05-05 13:42:18 [INFO] pandownload version: 2.2.2
+2020-05-05 13:42:20 [WARN] rpc error (0): connecting
+2020-05-05 13:42:21 [INFO] aria2 websocket connection opened (127.0.0.1:36875)
+2020-05-05 13:42:21 [INFO] aria2 version: 1.35.1
+2020-05-05 13:42:21 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36875/jsonrpc
+2020-05-05 13:42:21 [INFO] create main window
+2020-05-05 13:42:21 [INFO] verify cookie (641)
+2020-05-05 13:42:21 [INFO] verify cookie (581)
+2020-05-05 13:42:24 [INFO] user login success (476495987): zjc040
+2020-05-05 16:31:13 [WARN] ID#29 - The response status is not successful. status=403(22) FILE="G:/pandown/第三阶段/05-化学第三阶段基础实验特训.mp4" SIZE="724566930"
+2020-05-05 16:31:14 [WARN] ID#29 - user is not authorized, hitcode:117(-1) FILE="G:/pandown/第三阶段/05-化学第三阶段基础实验特训.mp4" SIZE="724566930"
+2020-05-05 16:31:20 [WARN] ID#29 - Download aborted.(10) FILE="G:/pandown/第三阶段/05-化学第三阶段基础实验特训.mp4" SIZE="724566930"
+2020-05-05 16:31:22 [WARN] ID#29 - Download aborted.(10) FILE="G:/pandown/第三阶段/05-化学第三阶段基础实验特训.mp4" SIZE="724566930"
+2020-05-05 16:31:25 [WARN] ID#29 - Download aborted.(10) FILE="G:/pandown/第三阶段/05-化学第三阶段基础实验特训.mp4" SIZE="724566930"
+2020-05-05 16:31:30 [WARN] aria2.forcePause error (1): GID#70903b300c9ee6e1 cannot be paused now
+2020-05-05 16:31:31 [WARN] ID#29 - Download aborted.(10) FILE="G:/pandown/第三阶段/05-化学第三阶段基础实验特训.mp4" SIZE="724566930"
+2020-05-05 16:32:02 [WARN] aria2.removeDownloadResult error (1): Could not remove download result of GID#d6f714674a5d6c83
+2020-05-05 16:32:03 [WARN] aria2.removeDownloadResult error (1): Could not remove download result of GID#57ddfb4a4fdd4c91
+2020-05-05 16:39:32 [INFO] close main window
+2020-05-05 16:39:32 [WARN] aria2 websocket connection closed (127.0.0.1:36875), code: 1000 (Normal close), reason: aria2 shutdown
+2020-05-05 16:39:33 [INFO] websocket client stop
+2020-05-05 16:39:33 [INFO] exit

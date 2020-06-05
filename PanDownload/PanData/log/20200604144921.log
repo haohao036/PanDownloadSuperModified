@@ -1,0 +1,55 @@
+2020-06-04 14:49:22 [INFO] pandownload version: 2.2.2
+2020-06-04 14:49:24 [INFO] aria2 websocket connection opened (127.0.0.1:36876)
+2020-06-04 14:49:24 [INFO] aria2 version: 1.35.1
+2020-06-04 14:49:24 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36876/jsonrpc
+2020-06-04 14:49:24 [INFO] create main window
+2020-06-04 14:49:24 [INFO] verify cookie (581)
+2020-06-04 14:49:24 [INFO] verify cookie (728)
+2020-06-04 14:49:24 [WARN] get sign error: sign1= sign2= errmsg=
+2020-06-04 14:49:25 [WARN] get sign error: sign1= sign2= errmsg=
+2020-06-04 14:49:26 [INFO] user login success (3241175752): X_55555555丶
+2020-06-04 14:49:26 [INFO] user login success (476495987): zjc040
+2020-06-04 14:49:56 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:49:57 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:49:57 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:50:04 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:50:05 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:50:06 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:51:12 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:51:13 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:51:13 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:51:14 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:51:14 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:51:15 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:51:33 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:51:38 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:52:02 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:52:07 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:52:31 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:52:42 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:53:13 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:53:18 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:53:42 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:53:47 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:54:29 [WARN] request error (0x700000000): https://pan.baidu.com/api/quota <html>
+            <head>
+                <title>502 Bad Gateway</title>
+            </head>
+            <body>
+            <h1>502 Bad Gateway</h1>
+            <p>TlsProtocolException(&quot;Cannot establish TLS with pan.baidu.com:443 (sni: pan.baidu.com): TlsException(&#x27;Cannot load trusted certificates (C:\\\\Users\\\\iamno\\\\AppData\\\\Local\\\\Temp\\\\Rar$EXa9056.47415\\\\certifi\\\\cacert.pem, None).&#x27;)&quot;)</p>
+            </body>
+        </html>
+2020-06-04 14:54:29 [WARN] request error (0x700000000): https://pan.baidu.com/api/quota <html>
+            <head>
+                <title>502 Bad Gateway</title>
+            </head>
+            <body>
+            <h1>502 Bad Gateway</h1>
+            <p>TlsProtocolException(&quot;Cannot establish TLS with pan.baidu.com:443 (sni: pan.baidu.com): TlsException(&#x27;Cannot load trusted certificates (C:\\\\Users\\\\iamno\\\\AppData\\\\Local\\\\Temp\\\\Rar$EXa9056.47415\\\\certifi\\\\cacert.pem, None).&#x27;)&quot;)</p>
+            </body>
+        </html>
+2020-06-04 14:54:30 [INFO] close main window
+2020-06-04 14:54:30 [WARN] aria2 websocket connection closed (127.0.0.1:36876), code: 1000 (Normal close), reason: aria2 shutdown
+2020-06-04 14:54:31 [INFO] websocket client stop
+2020-06-04 14:54:32 [INFO] exit

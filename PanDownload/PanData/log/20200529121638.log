@@ -1,0 +1,24 @@
+2020-05-29 12:16:40 [INFO] pandownload version: 2.2.2
+2020-05-29 12:16:43 [WARN] rpc error (0): connecting
+2020-05-29 12:16:44 [WARN] aria2 websocket connection failed (127.0.0.1:36933), state: 3 (websocketpp.transport:2 - Underlying Transport Error)
+	local close code: 1006 (Abnormal close), local close reason: Underlying Transport Error
+	remote close code: 1006 (Abnormal close), remote close reason: 
+2020-05-29 12:16:44 [WARN] rpc error (0): connection failed
+2020-05-29 12:16:45 [WARN] rpc error (0): connection failed
+2020-05-29 12:16:45 [INFO] aria2 websocket connection opened (127.0.0.1:36933)
+2020-05-29 12:16:45 [INFO] aria2 version: 1.35.1
+2020-05-29 12:16:45 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36933/jsonrpc
+2020-05-29 12:16:46 [INFO] create main window
+2020-05-29 12:16:46 [INFO] verify cookie (581)
+2020-05-29 12:16:46 [INFO] verify cookie (728)
+2020-05-29 12:16:46 [INFO] verify cookie (631)
+2020-05-29 12:16:48 [INFO] user login success (476495987): zjc040
+2020-05-29 12:16:48 [INFO] user login success (2917049665): iam张家墀
+2020-05-29 12:16:48 [INFO] user login success (3241175752): X_55555555丶
+2020-05-29 13:36:30 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/UDKInstall-2015-02.exe" SIZE="2001725784"
+2020-05-29 13:36:30 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/UDKInstall-2015-02.exe" SIZE="2001725784"
+2020-05-29 13:36:31 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/UDKInstall-2015-02.exe" SIZE="2001725784"
+2020-05-29 22:17:40 [INFO] close main window
+2020-05-29 22:17:40 [WARN] aria2 websocket connection closed (127.0.0.1:36933), code: 1000 (Normal close), reason: aria2 shutdown
+2020-05-29 22:17:41 [INFO] websocket client stop
+2020-05-29 22:17:42 [INFO] exit

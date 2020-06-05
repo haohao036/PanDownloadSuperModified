@@ -1,0 +1,23 @@
+2020-05-14 12:55:24 [INFO] pandownload version: 2.2.2
+2020-05-14 12:55:27 [WARN] rpc error (0): connecting
+2020-05-14 12:55:27 [INFO] aria2 websocket connection opened (127.0.0.1:36929)
+2020-05-14 12:55:27 [INFO] aria2 version: 1.35.1
+2020-05-14 12:55:27 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36929/jsonrpc
+2020-05-14 12:55:28 [INFO] create main window
+2020-05-14 12:55:28 [INFO] verify cookie (581)
+2020-05-14 12:55:28 [INFO] verify cookie (728)
+2020-05-14 12:55:30 [INFO] user login success (476495987): zjc040
+2020-05-14 12:55:30 [INFO] user login success (3241175752): X_55555555丶
+2020-05-14 12:57:13 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandown/gotothemoon（去月球）.apk" SIZE="182528031"
+2020-05-14 12:57:14 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandown/gotothemoon（去月球）.apk" SIZE="182528031"
+2020-05-14 12:57:14 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandown/gotothemoon（去月球）.apk" SIZE="182528031"
+2020-05-14 12:57:22 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandown/gotothemoon（去月球）.apk" SIZE="182528031"
+2020-05-14 12:57:23 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandown/gotothemoon（去月球）.apk" SIZE="182528031"
+2020-05-14 12:57:24 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandown/gotothemoon（去月球）.apk" SIZE="182528031"
+2020-05-14 12:58:12 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandown/gotothemoon（去月球）.apk" SIZE="182528031"
+2020-05-14 12:58:12 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandown/gotothemoon（去月球）.apk" SIZE="182528031"
+2020-05-14 12:58:13 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandown/gotothemoon（去月球）.apk" SIZE="182528031"
+2020-05-14 20:23:34 [INFO] close main window
+2020-05-14 20:23:34 [WARN] aria2 websocket connection closed (127.0.0.1:36929), code: 1000 (Normal close), reason: aria2 shutdown
+2020-05-14 20:23:35 [INFO] websocket client stop
+2020-05-14 20:23:35 [INFO] exit

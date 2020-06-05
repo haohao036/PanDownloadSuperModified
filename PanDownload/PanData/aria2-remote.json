@@ -1,0 +1,17 @@
+[
+   {
+      "dir" : [
+         "G:\\pandown\\李政化学二轮（全）",
+         "D:\\Desktop",
+         "G:\\pandown\\第三阶段",
+         "H:\\pandownload",
+         "G:\\pandown",
+         "H:\\gal",
+         "G:\\pandownload下载"
+      ],
+      "host" : "127.0.0.1",
+      "name" : "本地磁盘",
+      "port" : 6808,
+      "token" : "pandownload"
+   }
+]

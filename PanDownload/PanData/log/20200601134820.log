@@ -1,0 +1,17 @@
+2020-06-01 13:48:21 [INFO] pandownload version: 2.2.2
+2020-06-01 13:48:29 [WARN] rpc error (0): connecting
+2020-06-01 13:48:30 [WARN] aria2 websocket connection failed (127.0.0.1:36880), state: 3 (websocketpp.transport:2 - Underlying Transport Error)
+	local close code: 1006 (Abnormal close), local close reason: Underlying Transport Error
+	remote close code: 1006 (Abnormal close), remote close reason: 
+2020-06-01 13:48:30 [WARN] rpc error (0): connection failed
+2020-06-01 13:48:30 [WARN] rpc error (0): connection failed
+2020-06-01 13:48:31 [INFO] aria2 websocket connection opened (127.0.0.1:36880)
+2020-06-01 13:48:31 [INFO] aria2 version: 1.35.1
+2020-06-01 13:48:31 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36880/jsonrpc
+2020-06-01 13:48:31 [INFO] create main window
+2020-06-01 13:48:31 [INFO] verify cookie (581)
+2020-06-01 13:48:31 [INFO] verify cookie (728)
+2020-06-01 13:49:41 [INFO] close main window
+2020-06-01 13:49:41 [WARN] aria2 websocket connection closed (127.0.0.1:36880), code: 1000 (Normal close), reason: aria2 shutdown
+2020-06-01 13:49:42 [INFO] websocket client stop
+2020-06-01 13:49:43 [INFO] exit

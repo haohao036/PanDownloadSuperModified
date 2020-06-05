@@ -1,0 +1,41 @@
+2020-06-04 14:40:46 [INFO] pandownload version: 2.2.2
+2020-06-04 14:40:49 [INFO] aria2 websocket connection opened (127.0.0.1:36870)
+2020-06-04 14:40:49 [INFO] aria2 version: 1.35.1
+2020-06-04 14:40:49 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36870/jsonrpc
+2020-06-04 14:40:49 [INFO] create main window
+2020-06-04 14:40:49 [INFO] verify cookie (581)
+2020-06-04 14:40:49 [INFO] verify cookie (728)
+2020-06-04 14:40:49 [WARN] get sign error: sign1= sign2= errmsg=
+2020-06-04 14:40:50 [WARN] get sign error: sign1= sign2= errmsg=
+2020-06-04 14:40:51 [INFO] user login success (3241175752): X_55555555丶
+2020-06-04 14:40:52 [INFO] user login success (476495987): zjc040
+2020-06-04 14:41:02 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:41:03 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:41:09 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:41:11 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:41:11 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:41:22 [WARN] request error (0x200000073): https://pan.baidu.com/share/pset {"errno":115,"request_id":3609082972107259037,"shareid":-1,"link":"","imagetype":0,"show_msg":"","newno":"100000010001"}
+2020-06-04 14:41:29 [WARN] request error (0x20000006c): https://pan.baidu.com/share/set {"errno":108,"request_id":3609084677946443629,"shareid":-1,"link":"","show_msg":"\u6587\u4ef6\u542b\u6709\u654f\u611f\u4fe1\u606f\uff0c\u6682\u65e0\u6cd5\u5206\u4eab"}
+2020-06-04 14:42:14 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/PC.7z" SIZE="598696603"
+2020-06-04 14:42:15 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/PC.7z" SIZE="598696603"
+2020-06-04 14:42:15 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/PC.7z" SIZE="598696603"
+2020-06-04 14:42:20 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/PC.7z" SIZE="598696603"
+2020-06-04 14:42:20 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/PC.7z" SIZE="598696603"
+2020-06-04 14:42:21 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/PC.7z" SIZE="598696603"
+2020-06-04 14:42:33 [WARN] request error (0x100000007): https://pan.baidu.com/api/list 
+2020-06-04 14:42:38 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:42:43 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:43:28 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:43:32 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:43:35 [WARN] ID#1 - Network problem has occurred. cause:No connection could be made because the target machine actively refused it.
+(1) FILE="G:/pandownload下载/A126@忧郁的弟弟.rar" SIZE="349631095"
+2020-06-04 14:43:53 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/A126@忧郁的弟弟.rar" SIZE="349631095"
+2020-06-04 14:43:55 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/A126@忧郁的弟弟.rar" SIZE="349631095"
+2020-06-04 14:43:57 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:43:58 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/A126@忧郁的弟弟.rar" SIZE="349631095"
+2020-06-04 14:44:08 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-04 14:44:08 [WARN] request error (0x100000007): https://pan.baidu.com/api/download 
+2020-06-04 14:46:42 [INFO] close main window
+2020-06-04 14:46:42 [WARN] aria2 websocket connection closed (127.0.0.1:36870), code: 1000 (Normal close), reason: aria2 shutdown
+2020-06-04 14:46:43 [INFO] websocket client stop
+2020-06-04 14:46:43 [INFO] exit

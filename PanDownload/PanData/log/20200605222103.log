@@ -1,0 +1,28 @@
+2020-06-05 22:21:04 [INFO] pandownload version: 2.2.2
+2020-06-05 22:21:06 [INFO] aria2 websocket connection opened (127.0.0.1:36989)
+2020-06-05 22:21:07 [INFO] aria2 version: 1.35.1
+2020-06-05 22:21:07 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36989/jsonrpc
+2020-06-05 22:21:07 [WARN] lua error: module 'lcurl.safe' not found:
+	no field package.preload['lcurl.safe']
+	no file './PanData/script/lib/lua/lcurl\safe.lua'
+	no file 'G:/pandownload修改/PanDownload/PanData/script/lib/lua/lcurl\safe.lua'
+	no file './PanData/script/lib/lcurl\safe.dll'
+	no file 'G:/pandownload修改/PanDownload/PanData/script/lib/lcurl\safe.dll'
+	no file './PanData/script/lib/lcurl.dll'
+	no file 'G:/pandownload修改/PanDownload/PanData/script/lib/lcurl.dll'
+2020-06-05 22:21:07 [WARN] lua error: G:1: module 'lcurl.safe' not found:
+	no field package.preload['lcurl.safe']
+	no file './PanData/script/lib/lua/lcurl\safe.lua'
+	no file 'G:/pandownload修改/PanDownload/PanData/script/lib/lua/lcurl\safe.lua'
+	no file './PanData/script/lib/lcurl\safe.dll'
+	no file 'G:/pandownload修改/PanDownload/PanData/script/lib/lcurl\safe.dll'
+	no file './PanData/script/lib/lcurl.dll'
+	no file 'G:/pandownload修改/PanDownload/PanData/script/lib/lcurl.dll'
+2020-06-05 22:21:07 [INFO] create main window
+2020-06-05 22:22:37 [WARN] ID#1 - 初始化脚本失败(-1) FILE="G:/pandownload下载/36.有机实验讨论详解.mp4" SIZE="816610231"
+2020-06-05 22:22:37 [WARN] ID#1 - 初始化脚本失败(-1) FILE="G:/pandownload下载/36.有机实验讨论详解.mp4" SIZE="816610231"
+2020-06-05 22:22:38 [WARN] ID#1 - 初始化脚本失败(-1) FILE="G:/pandownload下载/36.有机实验讨论详解.mp4" SIZE="816610231"
+2020-06-05 22:23:13 [INFO] close main window
+2020-06-05 22:23:13 [WARN] aria2 websocket connection closed (127.0.0.1:36989), code: 1000 (Normal close), reason: aria2 shutdown
+2020-06-05 22:23:14 [INFO] websocket client stop
+2020-06-05 22:23:14 [INFO] exit

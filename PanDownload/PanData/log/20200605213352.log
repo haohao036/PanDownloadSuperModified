@@ -1,0 +1,14 @@
+2020-06-05 21:33:53 [INFO] pandownload version: 2.2.2
+2020-06-05 21:33:55 [WARN] rpc error (0): connecting
+2020-06-05 21:33:56 [INFO] aria2 websocket connection opened (127.0.0.1:36825)
+2020-06-05 21:33:56 [INFO] aria2 version: 1.35.1
+2020-06-05 21:33:56 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36825/jsonrpc
+2020-06-05 21:33:56 [INFO] create main window
+2020-06-05 21:33:56 [INFO] verify cookie (581)
+2020-06-05 21:33:56 [INFO] verify cookie (728)
+2020-06-05 21:33:57 [WARN] get sign error: sign1= sign2= errmsg=
+2020-06-05 21:33:57 [WARN] get sign error: sign1= sign2= errmsg=
+2020-06-05 21:33:59 [INFO] user login success (476495987): zjc040
+2020-06-05 21:34:00 [INFO] user login success (3241175752): X_55555555丶
+2020-06-05 21:34:21 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-05 21:34:25 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 

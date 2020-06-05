@@ -1,0 +1,23 @@
+2020-05-15 11:02:22 [INFO] pandownload version: 2.2.2
+2020-05-15 11:02:24 [INFO] aria2 websocket connection opened (127.0.0.1:36925)
+2020-05-15 11:02:24 [INFO] aria2 version: 1.35.1
+2020-05-15 11:02:24 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36925/jsonrpc
+2020-05-15 11:02:24 [INFO] create main window
+2020-05-15 11:02:24 [INFO] verify cookie (581)
+2020-05-15 11:02:24 [INFO] verify cookie (728)
+2020-05-15 11:02:24 [INFO] verify cookie (631)
+2020-05-15 11:02:26 [INFO] user login success (3241175752): X_55555555丶
+2020-05-15 11:02:27 [INFO] user login success (476495987): zjc040
+2020-05-15 11:02:27 [INFO] user login success (2917049665): iam张家墀
+2020-05-15 11:04:26 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="H:/gal/[170728][ωstar]4 -罪と罰の少女-.rar" SIZE="3567214246"
+2020-05-15 11:04:27 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="H:/gal/[170728][ωstar]4 -罪と罰の少女-.rar" SIZE="3567214246"
+2020-05-15 11:04:28 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="H:/gal/[170728][ωstar]4 -罪と罰の少女-.rar" SIZE="3567214246"
+2020-05-15 11:04:40 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":3141736077618907006,"server_time":1589511878}
+2020-05-15 11:05:10 [WARN] request error (0x200000073): https://pan.baidu.com/share/pset {"errno":115,"request_id":3141744082027308864,"shareid":-1,"link":"","imagetype":0,"show_msg":"","newno":"100000010001"}
+2020-05-15 11:24:01 [WARN] ID#1 - No URI available.(1) FILE="H:/gal/[170728][ωstar]4 -罪と罰の少女-.rar" SIZE="3567214246"
+2020-05-15 11:24:04 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="H:/gal/[170728][ωstar]4 -罪と罰の少女-.rar" SIZE="3567214246"
+2020-05-15 11:24:06 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="H:/gal/[170728][ωstar]4 -罪と罰の少女-.rar" SIZE="3567214246"
+2020-05-15 20:56:53 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-15 20:56:53 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2020-05-15 20:56:53 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2020-05-15 20:57:43 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 

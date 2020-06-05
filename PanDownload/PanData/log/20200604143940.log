@@ -1,0 +1,18 @@
+2020-06-04 14:39:40 [INFO] pandownload version: 2.2.2
+2020-06-04 14:39:42 [INFO] aria2 websocket connection opened (127.0.0.1:36891)
+2020-06-04 14:39:42 [INFO] aria2 version: 1.35.1
+2020-06-04 14:39:42 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36891/jsonrpc
+2020-06-04 14:39:42 [INFO] create main window
+2020-06-04 14:39:42 [INFO] verify cookie (581)
+2020-06-04 14:39:42 [INFO] verify cookie (728)
+2020-06-04 14:39:43 [WARN] get sign error: sign1= sign2= errmsg=
+2020-06-04 14:39:43 [WARN] get sign error: sign1= sign2= errmsg=
+2020-06-04 14:39:45 [INFO] user login success (3241175752): X_55555555丶
+2020-06-04 14:39:45 [INFO] user login success (476495987): zjc040
+2020-06-04 14:40:16 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:40:17 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:40:18 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/遺作 ～Respect.zip" SIZE="480585100"
+2020-06-04 14:40:44 [INFO] close main window
+2020-06-04 14:40:44 [WARN] aria2 websocket connection closed (127.0.0.1:36891), code: 1000 (Normal close), reason: aria2 shutdown
+2020-06-04 14:40:45 [INFO] websocket client stop
+2020-06-04 14:40:45 [INFO] exit

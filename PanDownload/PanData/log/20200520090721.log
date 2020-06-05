@@ -1,0 +1,51 @@
+2020-05-20 09:07:21 [INFO] pandownload version: 2.2.2
+2020-05-20 09:07:25 [INFO] aria2 websocket connection opened (127.0.0.1:36991)
+2020-05-20 09:07:25 [INFO] aria2 version: 1.35.1
+2020-05-20 09:07:25 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36991/jsonrpc
+2020-05-20 09:07:25 [INFO] create main window
+2020-05-20 09:07:25 [INFO] verify cookie (581)
+2020-05-20 09:07:25 [INFO] verify cookie (728)
+2020-05-20 09:07:25 [INFO] verify cookie (631)
+2020-05-20 09:07:28 [INFO] user login success (476495987): zjc040
+2020-05-20 09:07:28 [INFO] user login success (3241175752): X_55555555丶
+2020-05-20 09:07:30 [INFO] user login success (2917049665): iam张家墀
+2020-05-20 09:46:59 [WARN] ID#2 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.006" SIZE="1449956678"
+2020-05-20 09:46:59 [WARN] ID#3 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.005" SIZE="8589934592"
+2020-05-20 09:47:00 [WARN] ID#4 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.004" SIZE="8589934592"
+2020-05-20 09:47:05 [WARN] ID#5 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.003" SIZE="8589934592"
+2020-05-20 09:47:08 [WARN] ID#6 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.002" SIZE="8589934592"
+2020-05-20 09:47:13 [WARN] ID#7 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.001" SIZE="8589934592"
+2020-05-20 09:47:14 [WARN] ID#2 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.006" SIZE="1449956678"
+2020-05-20 09:47:19 [WARN] ID#3 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.005" SIZE="8589934592"
+2020-05-20 09:47:21 [WARN] ID#4 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.004" SIZE="8589934592"
+2020-05-20 09:47:22 [WARN] ID#5 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.003" SIZE="8589934592"
+2020-05-20 09:47:27 [WARN] ID#6 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.002" SIZE="8589934592"
+2020-05-20 09:47:28 [WARN] ID#7 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.001" SIZE="8589934592"
+2020-05-20 09:47:31 [WARN] ID#2 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.006" SIZE="1449956678"
+2020-05-20 09:47:37 [WARN] ID#3 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.005" SIZE="8589934592"
+2020-05-20 09:47:37 [WARN] ID#4 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.004" SIZE="8589934592"
+2020-05-20 09:47:37 [WARN] ID#5 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.003" SIZE="8589934592"
+2020-05-20 09:47:38 [WARN] ID#6 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.002" SIZE="8589934592"
+2020-05-20 09:47:41 [WARN] ID#7 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.001" SIZE="8589934592"
+2020-05-20 09:48:02 [WARN] ID#2 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.006" SIZE="1449956678"
+2020-05-20 09:48:07 [WARN] ID#3 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.005" SIZE="8589934592"
+2020-05-20 09:48:07 [WARN] ID#4 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.004" SIZE="8589934592"
+2020-05-20 09:48:08 [WARN] ID#5 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.003" SIZE="8589934592"
+2020-05-20 09:48:10 [WARN] ID#6 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.002" SIZE="8589934592"
+2020-05-20 09:48:11 [WARN] ID#7 - 获取下载链接失败(2)(-1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.001" SIZE="8589934592"
+2020-05-20 09:49:04 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 09:53:39 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 09:54:41 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 10:01:59 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 10:04:09 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 10:04:38 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 10:04:43 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 10:10:26 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 10:13:10 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 10:32:46 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 10:33:47 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 10:34:08 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-20 11:53:30 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 11:54:02 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 13:09:32 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 13:29:07 [WARN] aria2 websocket connection closed (127.0.0.1:36991), code: 1006 (Abnormal close), reason: 

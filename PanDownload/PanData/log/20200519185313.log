@@ -1,0 +1,48 @@
+2020-05-19 18:53:13 [INFO] pandownload version: 2.2.2
+2020-05-19 18:53:22 [INFO] aria2 websocket connection opened (127.0.0.1:36839)
+2020-05-19 18:53:22 [INFO] aria2 version: 1.35.1
+2020-05-19 18:53:22 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36839/jsonrpc
+2020-05-19 18:53:22 [INFO] create main window
+2020-05-19 18:53:22 [INFO] verify cookie (728)
+2020-05-19 18:53:22 [INFO] verify cookie (631)
+2020-05-19 18:53:22 [INFO] verify cookie (581)
+2020-05-19 18:53:43 [INFO] user login success (476495987): zjc040
+2020-05-19 18:53:44 [INFO] user login success (3241175752): X_55555555丶
+2020-05-19 18:53:44 [INFO] user login success (2917049665): iam张家墀
+2020-05-19 18:55:13 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-19 18:55:45 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 18:58:20 [WARN] request error (0x100000023): https://pan.baidu.com/api/report/user 
+2020-05-19 18:59:15 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 18:59:39 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 19:01:52 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 19:02:10 [WARN] ID#1 - No URI available.(1) FILE="G:/pandownload下载/PC.7z" SIZE="598696603"
+2020-05-19 19:02:10 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-05-19 19:02:10 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-05-19 19:02:11 [WARN] ID#1 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/PC.7z" SIZE="598696603"
+2020-05-19 19:02:12 [WARN] ID#1 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/PC.7z" SIZE="598696603"
+2020-05-19 19:02:13 [WARN] ID#2 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 19:02:14 [WARN] ID#2 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 19:02:15 [WARN] ID#2 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 19:04:52 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-19 19:05:36 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 19:05:47 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 19:06:07 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-19 19:06:46 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 19:06:51 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 20:04:45 [WARN] ID#1 - No URI available.(1) FILE="G:/pandownload下载/PC.7z" SIZE="598696603"
+2020-05-19 20:04:46 [WARN] ID#1 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/PC.7z" SIZE="598696603"
+2020-05-19 20:05:00 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 20:06:51 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 21:09:31 [WARN] ID#2 - No URI available.(1) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 21:09:32 [WARN] ID#2 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 21:10:57 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 21:13:43 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 21:30:51 [WARN] ID#2 - No URI available.(2) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 21:45:34 [WARN] aria2 websocket connection closed (127.0.0.1:36839), code: 1006 (Abnormal close), reason: 

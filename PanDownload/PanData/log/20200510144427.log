@@ -1,0 +1,10 @@
+2020-05-10 14:44:28 [INFO] pandownload version: 2.2.2
+2020-05-10 14:44:30 [INFO] aria2 websocket connection opened (127.0.0.1:36858)
+2020-05-10 14:44:30 [INFO] aria2 version: 1.35.1
+2020-05-10 14:44:30 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36858/jsonrpc
+2020-05-10 14:44:30 [INFO] create main window
+2020-05-10 14:44:30 [INFO] verify cookie (581)
+2020-05-10 14:44:30 [INFO] verify cookie (728)
+2020-05-10 14:44:32 [INFO] user login success (476495987): zjc040
+2020-05-10 14:44:32 [INFO] user login success (3241175752): X_55555555丶
+2020-05-10 21:31:04 [WARN] aria2 websocket connection closed (127.0.0.1:36858), code: 1006 (Abnormal close), reason: 

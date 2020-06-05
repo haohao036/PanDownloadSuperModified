@@ -1,0 +1,15 @@
+2020-06-05 21:35:13 [INFO] pandownload version: 2.2.2
+2020-06-05 21:35:14 [INFO] aria2 websocket connection opened (127.0.0.1:36892)
+2020-06-05 21:35:14 [INFO] aria2 version: 1.35.1
+2020-06-05 21:35:14 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36892/jsonrpc
+2020-06-05 21:35:15 [INFO] create main window
+2020-06-05 21:35:15 [INFO] verify cookie (581)
+2020-06-05 21:35:15 [INFO] verify cookie (728)
+2020-06-05 21:35:15 [WARN] get sign error: sign1= sign2= errmsg=
+2020-06-05 21:35:16 [WARN] get sign error: sign1= sign2= errmsg=
+2020-06-05 21:35:17 [INFO] user login success (3241175752): X_55555555丶
+2020-06-05 21:35:17 [INFO] user login success (476495987): zjc040
+2020-06-05 21:49:59 [INFO] close main window
+2020-06-05 21:49:59 [WARN] aria2 websocket connection closed (127.0.0.1:36892), code: 1000 (Normal close), reason: aria2 shutdown
+2020-06-05 21:50:00 [INFO] websocket client stop
+2020-06-05 21:50:00 [INFO] exit

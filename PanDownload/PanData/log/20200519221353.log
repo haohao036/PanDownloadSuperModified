@@ -1,0 +1,24 @@
+2020-05-19 22:13:54 [INFO] pandownload version: 2.2.2
+2020-05-19 22:14:21 [INFO] aria2 websocket connection opened (127.0.0.1:36958)
+2020-05-19 22:14:21 [INFO] aria2 version: 1.35.1
+2020-05-19 22:14:21 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36958/jsonrpc
+2020-05-19 22:14:21 [INFO] create main window
+2020-05-19 22:14:21 [INFO] verify cookie (728)
+2020-05-19 22:14:21 [INFO] verify cookie (631)
+2020-05-19 22:14:21 [INFO] verify cookie (581)
+2020-05-19 22:14:25 [WARN] ID#2 - 用户未登录(-1) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 22:14:25 [WARN] ID#2 - 用户未登录(-1) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 22:14:25 [WARN] ID#2 - 用户未登录(-1) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 22:15:56 [WARN] ID#2 - 用户未登录(-1) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 22:15:57 [WARN] ID#2 - 用户未登录(-1) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 22:15:57 [WARN] ID#2 - 用户未登录(-1) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 22:16:28 [INFO] user login success (476495987): zjc040
+2020-05-19 22:16:40 [INFO] user login success (3241175752): X_55555555丶
+2020-05-19 22:16:41 [INFO] user login success (2917049665): iam张家墀
+2020-05-19 22:19:20 [WARN] request error (0x100000023): https://pan.baidu.com/api/report/user 
+2020-05-19 22:19:27 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 22:29:37 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 22:29:44 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 22:30:08 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 22:30:41 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-19 22:36:23 [WARN] aria2 websocket connection closed (127.0.0.1:36958), code: 1006 (Abnormal close), reason: 

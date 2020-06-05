@@ -1,0 +1,18 @@
+2020-05-20 08:52:07 [INFO] pandownload version: 2.2.2
+2020-05-20 08:52:15 [INFO] aria2 websocket connection opened (127.0.0.1:36987)
+2020-05-20 08:52:15 [INFO] aria2 version: 1.35.1
+2020-05-20 08:52:15 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36987/jsonrpc
+2020-05-20 08:52:15 [INFO] create main window
+2020-05-20 08:52:15 [INFO] verify cookie (581)
+2020-05-20 08:52:15 [INFO] verify cookie (728)
+2020-05-20 08:52:15 [INFO] verify cookie (631)
+2020-05-20 08:52:21 [INFO] user login success (3241175752): X_55555555丶
+2020-05-20 08:52:21 [INFO] user login success (2917049665): iam张家墀
+2020-05-20 08:52:21 [INFO] user login success (476495987): zjc040
+2020-05-20 08:53:07 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 08:53:12 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 08:54:44 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 08:54:48 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 08:57:28 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 09:00:29 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-20 09:06:52 [WARN] aria2 websocket connection closed (127.0.0.1:36987), code: 1006 (Abnormal close), reason: 

@@ -1,0 +1,104 @@
+2020-05-22 09:33:39 [INFO] pandownload version: 2.2.2
+2020-05-22 09:33:54 [INFO] aria2 websocket connection opened (127.0.0.1:36980)
+2020-05-22 09:33:54 [INFO] aria2 version: 1.35.1
+2020-05-22 09:33:54 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36980/jsonrpc
+2020-05-22 09:33:54 [INFO] create main window
+2020-05-22 09:33:54 [INFO] verify cookie (581)
+2020-05-22 09:33:54 [INFO] verify cookie (728)
+2020-05-22 09:33:54 [INFO] verify cookie (631)
+2020-05-22 09:34:13 [WARN] request error (0x100000038): https://pan.baidu.com/api/report/user 
+2020-05-22 09:34:18 [INFO] user login success (2917049665): iam张家墀
+2020-05-22 09:34:19 [INFO] user login success (476495987): zjc040
+2020-05-22 09:34:19 [INFO] user login success (3241175752): X_55555555丶
+2020-05-22 09:39:01 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 09:39:20 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 09:39:55 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 09:49:52 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 09:52:30 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 09:57:54 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 09:58:10 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 09:59:01 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 09:59:06 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:00:29 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:00:44 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:03:10 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:04:38 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:05:48 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:08:16 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-22 10:08:34 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:08:57 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:09:56 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:36:41 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:53:24 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:55:22 [WARN] request error (0x100000038): https://pan.baidu.com/api/quota 
+2020-05-22 10:55:39 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:56:05 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:56:37 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:57:29 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 10:58:05 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 11:21:39 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 11:22:08 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 11:22:26 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-22 11:22:44 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 11:59:17 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 12:42:04 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-22 13:19:28 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 13:20:33 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 13:21:04 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 13:22:19 [WARN] ID#5 - No URI available.(1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.005" SIZE="8589934592"
+2020-05-22 13:22:20 [WARN] ID#5 - Network problem has occurred. cause:A socket operation was attempted to an unreachable network.
+(1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.005" SIZE="8589934592"
+2020-05-22 13:22:21 [WARN] ID#5 - Network problem has occurred. cause:A socket operation was attempted to an unreachable network.
+(1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.005" SIZE="8589934592"
+2020-05-22 13:22:22 [WARN] ID#6 - Network problem has occurred. cause:A socket operation was attempted to an unreachable network.
+(1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.006" SIZE="1449956678"
+2020-05-22 13:30:37 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 13:32:49 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-22 13:36:22 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 13:37:39 [WARN] ID#5 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.005" SIZE="8589934592"
+2020-05-22 13:37:47 [WARN] ID#5 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.005" SIZE="8589934592"
+2020-05-22 13:37:48 [WARN] ID#5 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.005" SIZE="8589934592"
+2020-05-22 13:37:51 [WARN] ID#6 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.006" SIZE="1449956678"
+2020-05-22 13:37:53 [WARN] ID#6 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.006" SIZE="1449956678"
+2020-05-22 13:37:54 [WARN] ID#6 - The response status is not successful. status=403(22) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.006" SIZE="1449956678"
+2020-05-22 13:39:15 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 13:39:40 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 13:39:50 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 13:40:20 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 13:41:46 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 15:03:10 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 15:29:41 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 15:30:08 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 15:30:48 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 15:30:55 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 15:31:47 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 15:32:32 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 15:43:46 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 15:44:46 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 15:46:56 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 15:47:01 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 15:58:19 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 17:50:57 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 18:54:42 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-22 19:00:55 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 19:01:30 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 19:01:41 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 19:01:51 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 19:03:51 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-22 19:07:01 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 19:12:03 [WARN] request error (0x100000038): https://pan.baidu.com/api/quota 
+2020-05-22 19:34:12 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 20:01:55 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 20:02:25 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-22 20:03:16 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-22 20:03:33 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 20:03:40 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 20:04:30 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-22 20:05:22 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-22 20:06:19 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-22 20:07:55 [INFO] close main window
+2020-05-22 20:07:55 [WARN] aria2 websocket connection closed (127.0.0.1:36980), code: 1000 (Normal close), reason: aria2 shutdown
+2020-05-22 20:07:56 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-22 20:07:56 [INFO] websocket client stop
+2020-05-22 20:07:57 [INFO] exit

@@ -1,0 +1,40 @@
+2020-05-21 14:01:28 [INFO] pandownload version: 2.2.2
+2020-05-21 14:01:31 [INFO] aria2 websocket connection opened (127.0.0.1:36840)
+2020-05-21 14:01:31 [INFO] aria2 version: 1.35.1
+2020-05-21 14:01:31 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36840/jsonrpc
+2020-05-21 14:01:31 [INFO] create main window
+2020-05-21 14:01:31 [INFO] verify cookie (581)
+2020-05-21 14:01:31 [INFO] verify cookie (728)
+2020-05-21 14:01:31 [INFO] verify cookie (631)
+2020-05-21 14:01:33 [INFO] user login success (3241175752): X_55555555丶
+2020-05-21 14:01:33 [INFO] user login success (2917049665): iam张家墀
+2020-05-21 14:01:33 [INFO] user login success (476495987): zjc040
+2020-05-21 20:34:10 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-05-21 20:34:10 [WARN] ID#4 - No URI available.(1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.004" SIZE="8589934592"
+2020-05-21 20:34:10 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-05-21 21:34:21 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-21 21:37:41 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-05-21 21:37:41 [WARN] ID#4 - Failed to receive data, cause: Error: 远程主机强迫关闭了一个现有的连接。
+(2746)(1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.004" SIZE="8589934592"
+2020-05-21 21:37:41 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-05-21 21:37:41 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-05-21 21:37:42 [WARN] ID#4 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.004" SIZE="8589934592"
+2020-05-21 21:37:43 [WARN] ID#5 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.005" SIZE="8589934592"
+2020-05-21 21:37:44 [WARN] ID#5 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.005" SIZE="8589934592"
+2020-05-21 21:37:45 [WARN] ID#5 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.005" SIZE="8589934592"
+2020-05-21 21:37:46 [WARN] ID#6 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.006" SIZE="1449956678"
+2020-05-21 21:37:47 [WARN] ID#6 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.006" SIZE="1449956678"
+2020-05-21 21:37:48 [WARN] ID#6 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="G:/pandownload下载/Ai-Tsymq/AI-TSymq.7z.006" SIZE="1449956678"
+2020-05-21 21:38:08 [WARN] request error (0x100000038): https://pan.baidu.com/api/quota 
+2020-05-21 21:38:09 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-05-21 21:38:09 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-05-21 21:51:13 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-05-21 21:51:13 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-05-21 23:05:33 [WARN] aria2 websocket connection closed (127.0.0.1:36840), code: 1006 (Abnormal close), reason: 

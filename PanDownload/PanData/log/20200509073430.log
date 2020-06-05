@@ -1,0 +1,15 @@
+2020-05-09 07:34:30 [INFO] pandownload version: 2.2.2
+2020-05-09 07:34:33 [WARN] rpc error (0): connecting
+2020-05-09 07:34:34 [INFO] aria2 websocket connection opened (127.0.0.1:36908)
+2020-05-09 07:34:34 [INFO] aria2 version: 1.35.1
+2020-05-09 07:34:34 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36908/jsonrpc
+2020-05-09 07:34:34 [INFO] create main window
+2020-05-09 07:34:34 [INFO] verify cookie (581)
+2020-05-09 07:34:34 [INFO] verify cookie (728)
+2020-05-09 07:34:36 [INFO] user login success (3241175752): X_55555555丶
+2020-05-09 07:34:36 [INFO] user login success (476495987): zjc040
+2020-05-09 16:15:59 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-09 21:35:38 [INFO] close main window
+2020-05-09 21:35:38 [WARN] aria2 websocket connection closed (127.0.0.1:36908), code: 1000 (Normal close), reason: aria2 shutdown
+2020-05-09 21:35:39 [INFO] websocket client stop
+2020-05-09 21:35:39 [INFO] exit

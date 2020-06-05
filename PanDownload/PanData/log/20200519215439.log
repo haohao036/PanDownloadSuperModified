@@ -1,0 +1,18 @@
+2020-05-19 21:54:39 [INFO] pandownload version: 2.2.2
+2020-05-19 21:55:00 [INFO] aria2 websocket connection opened (127.0.0.1:36927)
+2020-05-19 21:55:00 [INFO] aria2 version: 1.35.1
+2020-05-19 21:55:00 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36927/jsonrpc
+2020-05-19 21:55:00 [INFO] create main window
+2020-05-19 21:55:01 [INFO] verify cookie (728)
+2020-05-19 21:55:01 [INFO] verify cookie (631)
+2020-05-19 21:55:01 [INFO] verify cookie (581)
+2020-05-19 21:55:04 [WARN] ID#2 - 用户未登录(-1) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 21:55:04 [WARN] ID#2 - 用户未登录(-1) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 21:55:04 [WARN] ID#2 - 用户未登录(-1) FILE="G:/pandownload下载/MP.7z" SIZE="2034175519"
+2020-05-19 21:55:04 [INFO] user login success (2917049665): iam张家墀
+2020-05-19 21:55:04 [INFO] user login success (476495987): zjc040
+2020-05-19 21:55:06 [INFO] user login success (3241175752): X_55555555丶
+2020-05-19 22:11:49 [INFO] close main window
+2020-05-19 22:11:49 [WARN] aria2 websocket connection closed (127.0.0.1:36927), code: 1000 (Normal close), reason: aria2 shutdown
+2020-05-19 22:11:50 [INFO] websocket client stop
+2020-05-19 22:11:50 [INFO] exit

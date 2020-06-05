@@ -1,0 +1,26 @@
+2020-05-25 13:08:26 [INFO] pandownload version: 2.2.2
+2020-05-25 13:08:30 [WARN] rpc error (0): connecting
+2020-05-25 13:08:31 [WARN] aria2 websocket connection failed (127.0.0.1:36824), state: 3 (websocketpp.transport:2 - Underlying Transport Error)
+	local close code: 1006 (Abnormal close), local close reason: Underlying Transport Error
+	remote close code: 1006 (Abnormal close), remote close reason: 
+2020-05-25 13:08:31 [WARN] rpc error (0): connection failed
+2020-05-25 13:08:31 [WARN] rpc error (0): connection failed
+2020-05-25 13:08:32 [INFO] aria2 websocket connection opened (127.0.0.1:36824)
+2020-05-25 13:08:32 [INFO] aria2 version: 1.35.1
+2020-05-25 13:08:32 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36824/jsonrpc
+2020-05-25 13:08:32 [INFO] create main window
+2020-05-25 13:08:32 [INFO] verify cookie (581)
+2020-05-25 13:08:32 [INFO] verify cookie (728)
+2020-05-25 13:08:32 [INFO] verify cookie (631)
+2020-05-25 13:08:34 [INFO] user login success (3241175752): X_55555555丶
+2020-05-25 13:08:34 [INFO] user login success (2917049665): iam张家墀
+2020-05-25 13:08:34 [INFO] user login success (476495987): zjc040
+2020-05-25 19:15:31 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-25 19:16:01 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-25 21:07:20 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-25 21:11:44 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-25 22:01:40 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-25 22:25:51 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-05-25 22:25:51 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-05-25 22:38:35 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-05-25 22:42:16 [WARN] aria2 websocket connection closed (127.0.0.1:36824), code: 1006 (Abnormal close), reason: 

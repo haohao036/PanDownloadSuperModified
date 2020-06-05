@@ -1,0 +1,14 @@
+2020-06-05 22:26:35 [INFO] pandownload version: 2.2.2
+2020-06-05 22:26:37 [INFO] aria2 websocket connection opened (127.0.0.1:36981)
+2020-06-05 22:26:37 [INFO] aria2 version: 1.35.1
+2020-06-05 22:26:37 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36981/jsonrpc
+2020-06-05 22:26:37 [INFO] create main window
+2020-06-05 22:28:15 [WARN] lua error: G:67: attempt to index a nil value (field '?')
+2020-06-05 22:28:15 [WARN] ID#1 - lua调用失败(-1) FILE="G:/pandownload下载/釘宮理恵 - ルイズの各种YY.rar" SIZE="42198333"
+2020-06-05 22:29:18 [INFO] verify cookie (704)
+2020-06-05 22:29:19 [WARN] get sign error: sign1= sign2= errmsg=
+2020-06-05 22:29:22 [INFO] user login success (476495987): zjc040
+2020-06-05 22:29:54 [INFO] close main window
+2020-06-05 22:29:54 [WARN] aria2 websocket connection closed (127.0.0.1:36981), code: 1000 (Normal close), reason: aria2 shutdown
+2020-06-05 22:29:55 [INFO] websocket client stop
+2020-06-05 22:29:56 [INFO] exit

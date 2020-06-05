@@ -1,0 +1,43 @@
+2020-05-23 10:15:09 [INFO] pandownload version: 2.2.2
+2020-05-23 10:15:16 [INFO] aria2 websocket connection opened (127.0.0.1:36898)
+2020-05-23 10:15:16 [INFO] aria2 version: 1.35.1
+2020-05-23 10:15:16 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36898/jsonrpc
+2020-05-23 10:15:16 [INFO] create main window
+2020-05-23 10:15:16 [INFO] verify cookie (581)
+2020-05-23 10:15:16 [INFO] verify cookie (728)
+2020-05-23 10:15:16 [INFO] verify cookie (631)
+2020-05-23 10:15:21 [INFO] user login success (3241175752): X_55555555丶
+2020-05-23 10:15:21 [INFO] user login success (476495987): zjc040
+2020-05-23 10:15:22 [INFO] user login success (2917049665): iam张家墀
+2020-05-23 10:16:08 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:16:30 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:16:39 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:17:08 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:17:19 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:17:30 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:18:02 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:18:28 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:18:54 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:19:40 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:19:49 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:19:59 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:20:35 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:20:43 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:20:51 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:21:35 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:21:45 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:21:52 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:22:22 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:22:44 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:23:32 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 10:51:15 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 11:14:19 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 11:14:48 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 11:14:54 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 11:15:00 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 11:15:37 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 11:15:51 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-05-23 12:00:00 [INFO] close main window
+2020-05-23 12:00:01 [WARN] aria2 websocket connection closed (127.0.0.1:36898), code: 1000 (Normal close), reason: aria2 shutdown
+2020-05-23 12:00:02 [INFO] websocket client stop
+2020-05-23 12:00:02 [INFO] exit
