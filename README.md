@@ -8,5 +8,5 @@
 
 解压后双击运行“pandownload超级修改版启动器.exe”即可
 
-#蓝奏云链接[https://lanzous.com/i6SRTddt7tg]
+## 蓝奏云链接 https://lanzous.com/i6SRTddt7tg
 密码:7xsq
