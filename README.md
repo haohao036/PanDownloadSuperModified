@@ -119,4 +119,6 @@ t.me/pdcjxg
 
 14、作者网名是什么？
 
-答：
+答：Bareil Kusual Flare
+
+也可以叫第七逆行者
